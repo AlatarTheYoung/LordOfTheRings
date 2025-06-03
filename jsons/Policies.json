@@ -651,7 +651,7 @@
 			},
 			{
 				"name": "Socialism",
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"],
+				"uniques": ["[-15]% maintenance cost for [all] buildings [in all cities]"],
 				"requires": ["Civil Society"],
 				"row": 2,
 				"column": 3

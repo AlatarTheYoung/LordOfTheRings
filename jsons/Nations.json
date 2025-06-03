@@ -346,7 +346,7 @@
 			"[+1 Happiness] in cities on [Grassland] tiles",
 			"[+1 Culture] from every [Road] <during a Golden Age>",
 			"[-50]% maintenance on road & railroads",
-			"[-15]% maintenance cost for buildings [in all cities]"
+			"[-15]% maintenance cost for [all] buildings [in all cities]"
 			],
 		"cities": ["Michel Delving","Tuckborough","Hobbiton","Waymoot","Bywater","Tookbank","Longbottom","Oatborton","Gamwich","Frogmorton","Whitfurrows","Brokenborings","Whitfurrows","Long Cleeve","Hardbottle","Whitwell","Scary","Dwaling","Little Delving","Overhill","Needlehole","Nobottle","Bucklebury","Crickhollow","Greenholm","Undertowers"]
 	},
